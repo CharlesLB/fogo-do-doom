@@ -1,4 +1,4 @@
-# fogo-do-doom
+# Fogo do DOOM
 
 Aplicação feita em javaScript para simular o fogo do jogo Doom
 
